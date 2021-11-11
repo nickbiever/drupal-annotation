@@ -1,0 +1,6 @@
+name: Annotation Module
+type: module
+description: Add's a annotation field.
+package: Custom
+version: 9.x
+core_version_requirement: 9.x
